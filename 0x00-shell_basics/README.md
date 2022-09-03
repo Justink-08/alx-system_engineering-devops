@@ -1,1 +1,1 @@
-creating a script that prints a new dir
+moving betty to amy new dir
