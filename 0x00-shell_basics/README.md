@@ -1,1 +1,1 @@
-removing my first directory
+script to print previos working dir
