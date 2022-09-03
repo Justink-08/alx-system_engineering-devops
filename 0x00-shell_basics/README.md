@@ -1,1 +1,1 @@
-script to create my first dir
+removing betty from my dir
