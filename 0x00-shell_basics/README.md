@@ -1,1 +1,1 @@
-script to print previos working dir
+script to print the previous wd
