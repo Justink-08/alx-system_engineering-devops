@@ -1,1 +1,1 @@
-moving betty to amy new dir
+script to create my first dir
