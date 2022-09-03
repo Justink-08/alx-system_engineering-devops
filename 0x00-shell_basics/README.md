@@ -1,1 +1,1 @@
-removing betty from my dir
+removing my first directory
