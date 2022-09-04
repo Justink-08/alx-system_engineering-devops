@@ -1,1 +1,1 @@
-my first script to change user
+a script to print current user
