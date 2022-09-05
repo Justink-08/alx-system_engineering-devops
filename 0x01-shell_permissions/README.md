@@ -1,1 +1,1 @@
-A script to print the group a user belong
+a script that gives permission to the file
