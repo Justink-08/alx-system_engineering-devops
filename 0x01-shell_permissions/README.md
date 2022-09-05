@@ -1,1 +1,1 @@
-a script to print current user
+A script to print the group a user belong
