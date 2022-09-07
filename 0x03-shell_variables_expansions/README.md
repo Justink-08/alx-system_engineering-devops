@@ -1,1 +1,1 @@
-a script that list all environment variable
+a script to print the addition of 128 and a variable
