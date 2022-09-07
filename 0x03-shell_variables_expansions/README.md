@@ -1,1 +1,1 @@
-a script to display the user
+a script to count directories
