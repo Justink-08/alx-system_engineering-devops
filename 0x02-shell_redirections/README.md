@@ -1,1 +1,1 @@
-file that display the content of /etc/passwd
+a script to print hello world
