@@ -1,1 +1,1 @@
-a script that display hello-world
+ a script to print the content of etc/passwd
